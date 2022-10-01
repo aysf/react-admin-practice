@@ -29,4 +29,4 @@ Practicing how to create React-Admin
 ## Install React-Admin
 
 11. Move to client dir, `cd client`
-12. Install react admin with data and material UI core, `npm i react-admin ra-data-simple-rest @material-ui/core`
+12. Install react admin with data provider and material UI core, `npm i react-admin ra-data-simple-rest @material-ui/core`
